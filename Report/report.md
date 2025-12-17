@@ -105,3 +105,4 @@ Overall, this project demonstrates a practical and interactive application of th
 
 [1] Vincent A. Cicirello. Open Source Evolutionary Computation with Chips-n-Salsa. In *Proceedings of the 16th International Joint Conference on Computational Intelligence*, pages 330-337. November 2024. doi:10.5220/0013040600003837. [PDF] [BIB] [DOI] [arXiv] [CODE]
 
+[2] Wikipedia. 2025. List of national parks of the United States. Retrieved December 16, 2025 from https://en.wikipedia.org/wiki List_of_national_parks_of_the_United_States
